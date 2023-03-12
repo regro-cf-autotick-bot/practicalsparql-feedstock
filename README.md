@@ -1,11 +1,11 @@
-About practicalsparql
-=====================
+About practicalsparql-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/practicalsparql-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/hassanhajj910/practicalsparql
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/practicalsparql-feedstock/blob/main/LICENSE.txt)
 
 Summary: Small wrapper to simplify the interaction with SPARQL endpoints. Built on top of sparqlwrapper and RDFlib
 
