@@ -1,5 +1,5 @@
 {% set name = "practicalsparql" %}
-{% set version = "0.0.5" %}
+{% set version = "0.0.6" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/practicalSPARQL-{{ version }}.tar.gz
-  sha256: babe0df0bcb41b220bd50b86421bcf8203ed520c539bb5bcdcb8309f01c4dee9
+  sha256: 1b0d9c3c5421743ffb5c05afadae45a71aef5f852b5269dcd3bd2b8066e4b2f2
 
 build:
   noarch: python
